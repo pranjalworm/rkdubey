@@ -1,0 +1,6 @@
+baseURL = 'https://rkdubey.com/'
+languageCode = 'en-us'
+title = 'RK Dubey'
+
+[params]
+  description = 'RK Dubey — Writer, Observer, Storyteller. Author of the forthcoming biography of RK Singh, premier perfumer of India.'
